@@ -3,7 +3,7 @@
 Toggles block comments around the current cursor position or current selection.
 The entire lines will be selected automatically.
 
-![Toggle Block Comments](https://raw.githubusercontent.com/alexmunteanu/VS-Code-Adobe-Development-Utils/master/images/vscode-adobe-dev-utils_ae_expression_01.gif?token=ACS446GMOMTSSQ3HBL4XX4TABGAXO)
+![Toggle Block Comments](https://raw.githubusercontent.com/alexmunteanu/vscode-toggle-block-comments/master/images/vscode-toggle-block-comments-demo.gif)
 
 ## Usage
 
