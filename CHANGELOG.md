@@ -1,5 +1,11 @@
 # Toggle Block Comments | Changelog
 
+## 1.2.0 (2021-07-23)
+
+### Added
+
+- Support for `Blade`.
+
 ## 1.1.0 (2021-02-07)
 
 ### Added

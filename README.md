@@ -11,6 +11,7 @@ The entire lines will be selected automatically.
 - `JavaScript`
 - `Typescript`
 - `PHP`
+- `Blade`
 - `C`
 - `CSharp`
 - `HTML`
