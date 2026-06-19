@@ -1,5 +1,11 @@
 # Toggle Block Comments | Changelog
 
+## 1.4.0 (2026-06-19)
+
+### Fixed
+
+- Toggling a block comment on a line between two single-line block comments (`/* ... */`) no longer corrupts those adjacent comments
+
 ## 1.3.0 (2022-01-20)
 
 ### Added
